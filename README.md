@@ -1,9 +1,8 @@
-![image](https://github.com/user-attachments/assets/d1fa95d0-c9ed-45d1-9a1c-fb9f5e5744af)# 🎮 2D Platformer Game: Level Challenge 🌟
+🎮 2D Platformer Game: Level Challenge 🌟
 
 Welcome to the **Level Challenge** game! This is a **2D platformer** developed as a first project in the journey of learning game development. The game features a character who must navigate through various levels, overcoming obstacles and enemies to reach the goal. 
 
-![Game Screenshot](![z5988730907640_6c5703f2b43dbbd29772366e9a25f0dd](https://github.com/user-attachments/assets/86abb7bb-a11b-4a14-b929-614f3ca535d9)) <!-- Replace with actual screenshot URL -->
-
+![image](https://github.com/user-attachments/assets/d1fa95d0-c9ed-45d1-9a1c-fb9f5e5744af)# 
 ---
 
 ## 📚 Table of Contents
@@ -27,8 +26,7 @@ Welcome to the **Level Challenge** game! This is a **2D platformer** developed a
 
 In **Level Challenge**, players control a character who navigates through a series of levels filled with obstacles, enemies, and power-ups. The goal is to reach the end of each level while avoiding hazards and defeating or bypassing enemies. 
 
-![Game Screenshot](![z5988730907640_6c5703f2b43dbbd29772366e9a25f0dd](https://github.com/user-attachments/assets/86abb7bb-a11b-4a14-b929-614f3ca535d9)) <!-- Replace with actual screenshot URL -->
-
+![image](https://github.com/user-attachments/assets/d1fa95d0-c9ed-45d1-9a1c-fb9f5e5744af)# 
 ## 🚀 Features
 
 - **Multiple Levels**: Each level increases in difficulty and introduces new challenges. 🌈
@@ -52,8 +50,7 @@ In **Level Challenge**, players control a character who navigates through a seri
     ```
 3. **Create the Main Scene**: Start by designing the first level, adding a player character, platforms, and basic obstacles. 
 
-![Game Screenshot](![z5988730907640_6c5703f2b43dbbd29772366e9a25f0dd](https://github.com/user-attachments/assets/86abb7bb-a11b-4a14-b929-614f3ca535d9)) <!-- Replace with actual screenshot URL -->
-
+![image](https://github.com/user-attachments/assets/d1fa95d0-c9ed-45d1-9a1c-fb9f5e5744af)# 
 ## ⚙️ Game Mechanics
 
 ### Player Controls
